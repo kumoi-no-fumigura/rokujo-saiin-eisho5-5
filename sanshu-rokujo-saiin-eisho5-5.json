@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujo-saiin-eisho5-5",
  "yomi": "ろくじょうさいいんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "永承5年（1050）5月",
+  "author": "主催 禖子内親王（六条斎院）",
+  "desc": "六条斎院禖子内親王の家の夏の歌合。菖蒲・忍草・恋・夏山・祝などの題を、宣旨・出羽・小式部ら斎院の女房が詠む。後に「埋火」の題の歌が続く。"
+ },
  "editions": [
   {
    "pid": "1128193",
